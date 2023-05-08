@@ -1,0 +1,11 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: 对象125
+  Id: g=b185f4219363f41c936213392a3108dd
+  Supertype: BaseObjectType
+  Children:
+  - Name: 测试数据测试数据测试数据测试数据
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

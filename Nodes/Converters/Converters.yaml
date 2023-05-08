@@ -1,0 +1,43 @@
+Name: Converters
+Type: ConvertersCategoryFolder
+Children:
+- Name: 工程单位转换器1
+  Id: g=875b58b6160c5278a93649893a986509
+  Supertype: EUConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Source
+    Type: BaseDataVariableType
+    DataType: Number
+    ReferenceType: HasSource
+    Value: {"Type":11,"Body":0.0}
+- Name: Hèllà٦٧٨
+  Id: g=f75813a7b645b5f4568caed4c3813481
+  Supertype: LinearConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Source
+    Type: BaseDataVariableType
+    DataType: Number
+    ReferenceType: HasSource
+    Value: {"Type":11,"Body":0.0}
+- Name: ConvertisseurD_unitésD_ingénierie1
+  Id: g=61ccbd0c938b4fe8acdc0e868450ec4d
+  Supertype: EUConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Source
+    Type: BaseDataVariableType
+    DataType: Number
+    ReferenceType: HasSource
+    Value: {"Type":11,"Body":0.0}
+- Name: ConvertitoreDiUnitàIngegneristica1
+  Id: g=035b42f0f83e6716d9bfe4061ac66dd3
+  Supertype: EUConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Source
+    Type: BaseDataVariableType
+    DataType: Number
+    ReferenceType: HasSource
+    Value: {"Type":11,"Body":0.0}
