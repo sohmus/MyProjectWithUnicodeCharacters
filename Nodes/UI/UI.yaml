@@ -17,6 +17,11 @@ Children:
     Type: GaugeStyle
   - Name: NavigationPanelStyle
     Type: NavigationPanelStyle
+    Children:
+    - Name: IconUsesTextColor
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: true
   - Name: ChartStyle
     Type: ChartStyle
   - Name: DataListStyle
